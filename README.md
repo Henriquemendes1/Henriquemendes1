@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Henrique Mendes 😄
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquemendes1&layout=compact)
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquemendes1&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
 
 - Tecnologias que uso no meu dia a dia:
 <div style="display: inline_block"><br>
@@ -21,8 +21,12 @@
   
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henriquemendes1/Henriquemendes1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henriquemendes1/Henriquemendes1/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henriquemendes1/Henriquemendes1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henriquemendes1/Henriquemendes1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Henriquemendes1/Henriquemendes1/output/github-contribution-grid-snake.svg">
 </picture>
+<br/> 
+
+
+Este repositório no GitHub é um espaço onde compartilho projetos, aprendizados e conquistas ao longo da minha jornada. Fique à vontade para explorar e acompanhar meu progresso! 🚀🔧👾
 
